@@ -1,3 +1,8 @@
+![Screenshot 2024-07-28 144943](https://github.com/user-attachments/assets/31600f8c-adbb-4ac6-852d-3f58be92a205)
+![Screenshot 2024-07-28 144857](https://github.com/user-attachments/assets/ec01b669-c6a2-43e9-a038-12329dfa3792)
+![Screenshot 2024-07-28 144914](https://github.com/user-attachments/assets/4cc75f59-dbfb-4403-9a9a-2e73775bd513)
+![Screenshot 2024-07-28 144929](https://github.com/user-attachments/assets/8e2bbb84-e041-4a0f-a047-844f4029f865)
+
 # PokeAPI Project
 
 ## Overview
