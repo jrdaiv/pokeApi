@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    color: #343a40;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #pokemonInfo img, #pokemonDetails img {
+    width: 200px;
+    height: 200px;
+  }
+  

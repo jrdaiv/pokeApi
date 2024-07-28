@@ -1,0 +1,120 @@
+
+html{
+    background-image: url(/assests/4833725.jpg);
+    /* border-style: outset; */
+    /* border-color: #f8f9fa; */
+    /* box-shadow: 0 0 25px, 0 0 50px, 0 0 75px; */
+    /* border-radius: 15px; */
+    /* margin: 40px; */
+    padding: 20px;
+    /* margin-top: 400px; */
+}
+body{
+    background-image: url(/assests/4833725.jpg);
+    border-style: outset;
+    border-color: black;
+    box-shadow: 0 0 25px, 0 0 50px, 0 0 75px;
+    border-radius: 15px;
+    margin: 40px;
+    
+}
+nav{
+    background-image: url(/assests/4833725.jpg);
+    border-style: outset;
+    border-color: black;
+    box-shadow: 0 0 25px, 0 0 50px, 0 0 75px;
+    border-radius: 15px;
+    margin: 40px;
+
+}
+.btn{
+    margin-bottom: 30px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content{
+    text-align: center;
+    border-style: outset;
+    border-color: black;
+    box-shadow: 0 0 25px, 0 0 50px, 0 0 75px black;
+    padding: 35px;
+    border-radius: 15px;
+}
+
+.container-fluid img{
+    max-width: 250px;
+    border-style: outset;
+    box-shadow: 0 0 25px, 0 0 50px, 0 0 75px;
+    border-radius: 15px;
+    border-color: black;
+    margin: 50px;
+    padding: 50px
+
+}
+
+.body-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.flip-card{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    perspective: 1000px;
+}
+/* .flip-card-back{
+    background-color: black;
+} */
+.flip-card-inner{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner{
+    transform: rotate(360deg);
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
